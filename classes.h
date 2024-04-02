@@ -1,0 +1,6 @@
+#include "Cercle.h"
+#include "Triangle.h"
+#include "Dessin.h"
+#include "carre.h"
+#include "Figure.h"
+#include "Forme.h"
